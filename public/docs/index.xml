@@ -3,4 +3,9 @@
 &lt;label class="book-image" for="book-image-toggle-0"&gt;
  &lt;input class="hidden toggle" type="checkbox" id="book-image-toggle-0" /&gt;
  &lt;img src="http://localhost:1313/deans_list.webp" alt="A placeholder"loading="lazy"title="A placeholder" /&gt;
+&lt;/label&gt;
+&lt;h2 id="isupporter"&gt;iSupporter&lt;a class="anchor" href="#isupporter"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;label class="book-image" for="book-image-toggle-1"&gt;
+ &lt;input class="hidden toggle" type="checkbox" id="book-image-toggle-1" /&gt;
+ &lt;img src="http://localhost:1313/isupporter.webp" alt="A placeholder"loading="lazy"title="A placeholder" /&gt;
 &lt;/label&gt;</description></item></channel></rss>

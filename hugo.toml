@@ -8,3 +8,6 @@ title = 'Ashwin Rajesh Achievements'
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
   BookTheme = 'light'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
