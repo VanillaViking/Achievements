@@ -10,10 +10,10 @@ weight = 2
 Accolades collected in year 11 at Parramatta High School. Graduated with an ATAR of 87.5
 
 
-## Most Outstanding Student SDD
+## Most Outstanding Student Software Design & Development
 {{< image src="y11sdd.webp" alt="A placeholder" title="A placeholder" loading="lazy" >}}
-## Academic Excellence SDD
+## Academic Excellence Software Design & Development
 {{< image src="y11sdd1.webp" alt="A placeholder" title="A placeholder" loading="lazy" >}}
-## IPT 
+## Willingness to Learn Information Processes & Technology
 {{< image src="y11ipt.webp" alt="A placeholder" title="A placeholder" loading="lazy" >}}
 

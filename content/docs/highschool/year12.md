@@ -11,11 +11,11 @@ Accolades collected in year 12 at Parramatta High School. Graduated with an ATAR
 
 ## Highest Band in Maths Advanced
 {{< image src="y12madv.webp" alt="A placeholder" title="A placeholder" loading="lazy" >}}
-## First in SDD
+## First in Software Design & Development
 {{< image src="y12sdd.webp" alt="A placeholder" title="A placeholder" loading="lazy" >}}
-## First in IPT
+## First in Information Processes & Technology
 {{< image src="y12ipt.webp" alt="A placeholder" title="A placeholder" loading="lazy" >}}
-## First in Engineering
+## First in Engineering Studies
 {{< image src="y12est.webp" alt="A placeholder" title="A placeholder" loading="lazy" >}}
-## First in Engineering Semester 1
+## First in Engineering Studies Semester 1
 {{< image src="y12est1.webp" alt="A placeholder" title="A placeholder" loading="lazy" >}}
